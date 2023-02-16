@@ -6043,7 +6043,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2719210599297009792, guid: 12b4323e1ee460f4cbf79d3f937df84e, type: 3}
       propertyPath: m_Name
-      value: Tree
+      value: Trees
       objectReference: {fileID: 0}
     - target: {fileID: 6715352818100521862, guid: 12b4323e1ee460f4cbf79d3f937df84e, type: 3}
       propertyPath: m_RootOrder
